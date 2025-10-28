@@ -1,4 +1,4 @@
-# 👋 Hi! I'm **[@Sauravis]**  
+# 👋 Hi! I'm **@Sauravis**  
 
 ### 🧑‍💻 About Me
 Mobile & web application developer with **React** & **React Native**.  
