@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy **@Sauravis**  
 
-<!--
-**Sauravis/Sauravis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑‍💻 Sobre mí
+Desarrollador de **aplicaciones móviles y web** con **React y React Native**.  
 
-Here are some ideas to get you started:
+### 📱 Proyectos
+Actualmente trabajando en **iJanda**, una app sobre ocio y turismo en la **Mancomunidad de La Janda**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Pasiones
+Apasionado/a por la **tecnología**, el **diseño de interfaces** y la **experiencia de usuario**.  
+
+### 📝 Aprendizaje
+Siempre mejorando mis habilidades en **frontend**, **bases de datos** y **buenas prácticas de programación**.  
+
+### 📫 Contacto
+✉️ [josed.ramos994@gmail.com]  
+🌐 Mis proyectos y repositorios están aquí en GitHub
