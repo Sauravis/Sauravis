@@ -1,17 +1,24 @@
-# 👋 ¡Hola! Soy **@Sauravis**  
+# 👋 Hi! I'm **[@Sauravis]**  
 
-### 🧑‍💻 Sobre mí
-Desarrollador de **aplicaciones móviles y web** con **React y React Native**.  
+### 🧑‍💻 About Me
+Mobile & web application developer with **React** & **React Native**.  
+⚡ Passionate about **technology**, **UI/UX design**, and creating smooth user experiences.  
 
-### 📱 Proyectos
-Actualmente trabajando en **iJanda**, una app sobre ocio y turismo en la **Mancomunidad de La Janda**.  
+### 📱 Projects
+- **iJanda** – An app about leisure & tourism in the **La Janda region**.   
 
-### 💡 Pasiones
-Apasionado/a por la **tecnología**, el **diseño de interfaces** y la **experiencia de usuario**.  
+### 📝 Learning
+Currently sharpening skills in:  
+- **Frontend development**  
+- **Databases**  
+- **Programming best practices**  
 
-### 📝 Aprendizaje
-Siempre mejorando mis habilidades en **frontend**, **bases de datos** y **buenas prácticas de programación**.  
+### 🛠️ Tech & Tools
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 📫 Contacto
+### 📫 Contact
 ✉️ [josed.ramos994@gmail.com]  
-🌐 Mis proyectos y repositorios están aquí en GitHub
+🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/josediegoramos)
