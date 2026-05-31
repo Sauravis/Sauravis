@@ -1,24 +1,27 @@
-# 👋 Hi! I'm **@Sauravis**  
+👋 Hi! I'm José Diego Ramos
 
-### 🧑‍💻 About Me
-Mobile & web application developer with **React** & **React Native**.  
-⚡ Passionate about **technology**, **UI/UX design**, and creating smooth user experiences.  
+🧑‍💻 About Me  
+Junior Software Developer & IT Support Technician with experience in mobile application development and technical support environments.
 
-### 📱 Projects
-- **iJanda** – An app about leisure & tourism in the **La Janda region**.   
+I enjoy building practical applications and solving real-world problems using technology.
 
-### 📝 Learning
-Currently sharpening skills in:  
-- **Frontend development**  
-- **Databases**  
-- **Programming best practices**  
+⚡ Interests  
+- Mobile development (React Native)  
+- Frontend development (React / JavaScript)  
+- IT support & troubleshooting  
+- UI/UX and user experience improvement  
 
-### 🛠️ Tech & Tools
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+📱 Projects  
+- iJanda – Full-stack mobile tourism app for the La Janda region (React Native + PHP backend)  
 
-### 📫 Contact
-✉️ [josed.ramos994@gmail.com]  
-🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/josediegoramos)
+🛠️ Tech Stack  
+React Native · JavaScript · PHP · MySQL · Git · Basic Linux & Windows administration  
+
+📚 Currently Learning  
+- Software development best practices  
+- IT infrastructure & support systems  
+- Backend integration and APIs  
+
+📫 Contact  
+✉️ ramosmanz.it@gmail.com 
+🔗 LinkedIn: linkedin.com/in/josediegoramos  
