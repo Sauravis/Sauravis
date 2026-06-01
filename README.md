@@ -21,7 +21,7 @@ I enjoy building practical applications and solving real-world problems using te
 
 ## 📱 Projects
 
-- **iJanda** – Full-stack mobile tourism app for the La Janda region (React Native + PHP backend)
+- **iJanda** – Full-stack mobile tourism app for the "La Janda" region (React Native + PHP backend)
 
 ---
 
