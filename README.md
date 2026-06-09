@@ -4,7 +4,7 @@
 
 ## 🧑‍💻 About Me
 
-Junior Software Developer & IT Support Technician with experience in mobile application development and technical support environments.
+Software Developer & IT Support Technician with experience in mobile application development and technical support environments.
 
 I enjoy building practical applications and solving real-world problems using technology.
 
